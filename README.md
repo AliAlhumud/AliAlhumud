@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Smart packages storage and pickups system**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7573858548766114894](https://www.blogger.com/blog/posts/7573858548766114894)
+- 📝 I regularly write articles on [https://hacksintech.blogspot.com](https://www.blogger.com/blog/posts/7573858548766114894)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
