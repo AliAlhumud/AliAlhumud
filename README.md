@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Full Stack Web Developer, Network Engineer</h3>
+<h3 align="center"> React Native, React, javascript, mostly fornt-end developer Network Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialhumud&label=Profile%20views&color=0e75b6&style=flat" alt="alialhumud" /> </p>
 
