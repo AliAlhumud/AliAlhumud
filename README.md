@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center"> React Native, React, javascript, mostly fornt-end developer interested in UI-UX design</h3>
-<h4 align="center"> Sometimes Network Engineer Sometimes Web Dev</h4>
+<h4 align="center"> Sometimes Network Engineer Sometimes Web, Mobile Dev</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialhumud&label=Profile%20views&color=0e75b6&style=flat" alt="alialhumud" /> </p>
 
